@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydave",
+        "uuid": 5546556,
+        "checksum": "qsfdt"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
